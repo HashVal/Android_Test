@@ -1,0 +1,4 @@
+#ignore all git compile files
+results/*
+*.pyc
+
